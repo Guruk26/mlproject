@@ -5,3 +5,6 @@ mysql-connector-python
 pymysql
 #-e .
 scikit-learn
+seaborn
+catboost
+xgboost
